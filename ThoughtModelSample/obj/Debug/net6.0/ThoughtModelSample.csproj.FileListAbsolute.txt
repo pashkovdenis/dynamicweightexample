@@ -1,0 +1,15 @@
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\bin\Debug\net6.0\ThoughtModelSample.exe
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\bin\Debug\net6.0\ThoughtModelSample.deps.json
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\bin\Debug\net6.0\ThoughtModelSample.runtimeconfig.json
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\bin\Debug\net6.0\ThoughtModelSample.dll
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\bin\Debug\net6.0\ref\ThoughtModelSample.dll
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\bin\Debug\net6.0\ThoughtModelSample.pdb
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.csproj.AssemblyReference.cache
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.AssemblyInfoInputs.cache
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.AssemblyInfo.cs
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.csproj.CoreCompileInputs.cache
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.dll
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ref\ThoughtModelSample.dll
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.pdb
+C:\Users\pashk\Desktop\WeightedSearch\ThoughtModelSample\ThoughtModelSample\obj\Debug\net6.0\ThoughtModelSample.genruntimeconfig.cache

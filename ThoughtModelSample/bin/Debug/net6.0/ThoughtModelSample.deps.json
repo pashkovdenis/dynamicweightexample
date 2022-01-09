@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ThoughtModelSample/1.0.0": {
+        "runtime": {
+          "ThoughtModelSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThoughtModelSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
